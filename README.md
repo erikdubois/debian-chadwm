@@ -33,4 +33,6 @@ https://www.youtube.com/playlist?list=PLlloYVGq5pS4dMHsRIx6RAfbLNNMOEdCM
 # Examples
 
 ![Alt text](debian-1.png)
+![Alt text](debian-2.png)
+![Alt text](debian-3.png)
 
